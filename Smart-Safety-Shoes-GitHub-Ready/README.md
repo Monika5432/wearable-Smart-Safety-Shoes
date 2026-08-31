@@ -158,9 +158,9 @@ Every result recorded in [`docs/testing.md`](docs/testing.md) is measured on the
 
 | Name | Role |
 |---|---|
-| Team Member 1 | Hardware / Embedded |
-| Team Member 2 | Software / App |
-| Team Member 3 | Design / Documentation |
+| Kumari Monika| Hardware / Embedded |
+| Bikram Singh Parmar| Software / App |
+| Lakshya | Design / Documentation |
 
 ## ⚠️ Disclaimer
 
